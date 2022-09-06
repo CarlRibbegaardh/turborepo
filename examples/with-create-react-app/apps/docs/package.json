@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "react-scripts start",
-    "dev": "PORT=3001 react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "start": "carlribbegaardh-react-scripts start",
+    "dev": "PORT=3001 carlribbegaardh-react-scripts start",
+    "build": "carlribbegaardh-react-scripts build",
+    "test": "carlribbegaardh-react-scripts test",
+    "eject": "carlribbegaardh-react-scripts eject",
     "lint": "TIMING=1 eslint src --fix",
     "clean": "rm -rf build"
   },
@@ -15,7 +15,7 @@
     "ui": "*",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "5.0.0",
+    "carlribbegaardh-react-scripts": "5.0.2-beta.2",
     "web-vitals": "^2.1.2"
   },
   "devDependencies": {

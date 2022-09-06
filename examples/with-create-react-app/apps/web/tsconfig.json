@@ -1,4 +1,4 @@
 {
-  "extends": "tsconfig/react-app.json",
+  "extends": "tsconfig/react-app-edit.json",
   "include": ["src"]
 }

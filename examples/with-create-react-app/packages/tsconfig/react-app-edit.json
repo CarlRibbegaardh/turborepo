@@ -1,0 +1,10 @@
+{
+    "extends": "./react-app.json",
+    "compilerOptions": {
+        "baseUrl": "..",
+        "paths": {    
+          "ui": ["./ui/src"]
+        }
+      }
+  }
+  
